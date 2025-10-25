@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+# New changes
 st.title("💸 Fair Bill Splitter")
 
 st.markdown("""
